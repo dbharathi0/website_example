@@ -1,0 +1,184 @@
+#topborder
+{
+   background-color: black; 
+   height: 20px;
+   width: 100%;
+}
+body
+{
+    background-color: rgb(250, 251, 252);
+    height: 1500px;
+}
+#container
+{
+    background-color: rgb(106, 96, 111);
+    width: 70%;
+    margin: auto;
+}
+#header
+{
+    background-color: aliceblue;
+    height: 65px;
+}
+#header img
+{
+    height: 90px;
+    margin-top:-14px;
+    padding-bottom: 30px;
+}
+#header ul
+{
+    float: right;
+    margin-top: 25px;
+}
+#header ul li
+{
+    display: inline;
+    margin-right: 40px;
+}
+#header ul li a
+{
+    color: #010b0c;
+    text-decoration: none;
+    font-size: large;
+}
+#banner img
+{
+    width:100%;
+    height: 390px;
+}
+#content1
+{
+    width: 32%;
+    background-color:brown;
+    height: 320px;
+    float: left;
+    margin-right: 16px;
+    
+    
+}
+#content2
+{
+    width: 32%;
+    background-color:brown;
+    height: 320px;
+    float: left;
+    
+}
+#content3
+{
+    width: 32%;
+    background-color:brown;
+    height: 320px;
+    float: right;
+    
+}
+.heading
+{
+    color: #fa9e0a;
+    margin-left: 40px;
+    font-size: 24px;
+
+}
+.parag1
+{
+    color: #f2f7f9;
+    margin-left: 40px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+.more
+{
+    text-decoration: none;
+    margin-left: 80px;
+    padding: 8px;
+    color: black;
+    background-color: #f2f7f9;
+    
+}
+.more1
+{
+    text-decoration: none;
+    margin-left: 80px;
+    padding: 8px;
+    color: black;
+    background-color: #f2f7f9;
+    
+}
+.more2
+{
+    text-decoration: none;
+    margin-left: 80px;
+    padding: 8px;
+    color: black;
+    background-color: #f2f7f9;
+    
+}
+
+#bottom1
+{
+    width: 66%;
+    
+    margin-top: 30px;
+    
+    float: left;
+}
+#bottom2
+{
+    width: 34%;
+    margin-top: 30px;
+    
+    float: right;
+}
+#bottom1 h2 
+{
+    margin-left: 20px;
+    color: #000;
+}
+#bottom1 p
+{
+    margin-left: 20px;
+    color: #0a0000;
+    font: 1em sans-serif;
+    font-size: medium;
+}
+
+#bottom2 img
+{
+    width: 100%;
+    margin-top: 0px;
+    height: 300px;
+    float: left;
+}
+#footer
+{
+    width: 100%;
+    height: 50px;
+    background-color: #000;
+    clear: both;
+
+}
+#footer ul
+{
+    float: left;
+    height: 90px;
+    margin-top: 15px;
+    
+}
+#footer ul li
+{
+    display: inline;
+    margin-right: 40px;
+}
+#footer ul li a
+{
+    color: #f4f6f6;
+    text-decoration: none;
+    font-size: large;
+}
+#footer p
+{
+    color: #f1ebee;
+    float: right;
+    margin-right: 15px;
+}
